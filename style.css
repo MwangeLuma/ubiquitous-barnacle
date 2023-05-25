@@ -1,9 +1,10 @@
         }
-        padding: 0;
-            /* width:100%; */
-            flex-direction: row;
-        .nav{
-            color:white;
-            text-decoration: none;
+            background-color: black;
+        }
+        }
             min-width:350px; min-height:342px;
-        .bg h2{
+            font-size: xxx-large;
+        div h2{
+            color: white;
+            text-align: center;
+            padding: 1rem;
