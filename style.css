@@ -1,10 +1,9 @@
-            padding: 0;
+        .design{
+            display:flex;
+            color:white;
         }
-            margin-bottom: 2vh;
+        margin: 0;
+        padding: 0;
+            background-color:burlywood;
         }
             margin: 0;
-        .name{
-        }
-        div{
-        .contact{
-             font-size: 50px; color:rgb(255, 0, 0); text-align: center;
