@@ -1,10 +1,10 @@
+            text-decoration: none;
         }
-            padding: 1rem;
-        .footer{
-        div img{
-            margin: 0;
-            font-size: 150px;
-            flex-shrink: 10;
-            margin-bottom: 2vh;
-            background-color:peachpuff;
-            justify-content:space-evenly;
+             font-size: 50px; color:rgb(255, 0, 0); text-align: center;
+            display:flex;
+        #font{
+ *{
+            padding: 3vh 0;
+        .bg div{
+        }
+        }
