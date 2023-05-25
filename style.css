@@ -1,10 +1,9 @@
+        }
+        padding: 0;
+            /* width:100%; */
+            flex-direction: row;
+        .nav{
+            color:white;
             text-decoration: none;
-        }
-             font-size: 50px; color:rgb(255, 0, 0); text-align: center;
-            display:flex;
-        #font{
- *{
-            padding: 3vh 0;
-        .bg div{
-        }
-        }
+            min-width:350px; min-height:342px;
+        .bg h2{
