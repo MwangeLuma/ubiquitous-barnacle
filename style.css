@@ -1,10 +1,10 @@
-            color:white;
-            flex-wrap: wrap;
-        div h2{
-            color: white;
-        div{
-            background-color:bisque; color:chocolate; 
-            text-align: center;
-            margin: 0;
-            background-color: black;
-            position: relative;
+        }
+        }
+        
+        }
+        .divider{
+            padding:1vw ;
+        .contact{
+            max-width:400px; max-height:342px;
+        }
+            margin: 0.5rem;
