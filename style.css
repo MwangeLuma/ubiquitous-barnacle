@@ -1,10 +1,10 @@
- *{
-        margin: 0;
-        padding: 0;
+            display:flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content:space-evenly;
         }
-        
-        .bg{
+        .nav{
             background-color: black;
             color:white;
             margin: 0;
-            padding: 3vh 0;
+            padding: 1rem;
