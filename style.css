@@ -1,10 +1,10 @@
-        }
             background-color: black;
+            padding:0.5rem;
+            justify-content:space-evenly;
         }
-        }
-            min-width:350px; min-height:342px;
-            font-size: xxx-large;
-        div h2{
-            color: white;
-            text-align: center;
-            padding: 1rem;
+            color:white;
+            padding: 3vh 0;
+        
+            flex-direction: row;
+            padding:1vw ;
+        .nav{
