@@ -1,10 +1,10 @@
-            background-color: black;
-            padding:0.5rem;
-            justify-content:space-evenly;
-        }
+            flex-shrink: 10;
+            margin: 0;
+        .footer{
+            font-size: 150px;
+            /* font-size:8vh; */
+            margin: 0.5rem;
             color:white;
-            padding: 3vh 0;
-        
-            flex-direction: row;
-            padding:1vw ;
-        .nav{
+            background-color:peachpuff;
+            flex-wrap: wrap;
+        .bg h2{
